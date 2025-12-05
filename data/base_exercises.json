@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Push-Up",
+    "muscle_group": "Chest",
+    "equipment": "Bodyweight",
+    "difficulty": "Beginner"
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "muscle_group": "Chest",
+    "equipment": "Dumbbells",
+    "difficulty": "Beginner"
+  },
+  {
+    "name": "Barbell Squat",
+    "muscle_group": "Legs",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Dumbbell Shoulder Press",
+    "muscle_group": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Beginner"
+  },
+  {
+    "name": "Bicep Curl",
+    "muscle_group": "Biceps",
+    "equipment": "Dumbbells",
+    "difficulty": "Beginner"
+  },
+  {
+    "name": "Tricep Extension",
+    "muscle_group": "Triceps",
+    "equipment": "Dumbbells",
+    "difficulty": "Beginner"
+  },
+  {
+    "name": "Pull-Up",
+    "muscle_group": "Back",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate"
+  },
+  {
+    "name": "Leg Curl Machine",
+    "muscle_group": "Hamstrings",
+    "equipment": "Machine",
+    "difficulty": "Advanced"
+  }
+]
